@@ -10,14 +10,14 @@ The HIVE Exploit Bounty Program is focused around all the software currently bei
 ## HIVE-Approved Software Assets 
 The following software assets are approved for the HIVE Bounty Program:
 - Arisen Blockchain Software (https://github.com/arisenio/arisen)
-- ArisenJS Libraries - (https://github.com/arisenio/arisenjs)
+- ArisenJS Libraries - (https://github.com/arisenio/arisenjsv1)
 - Arisen Contract Development Toolkit (https://github.com/arisenio/arisen.cdt)
 - Arisen System-Based Smart Contracts (https://github.com/arisenio/arisen.contracts)
-- dWebJS Libraries (https://github.com/dwebjs) (Any exploit found in these libraries is in scope).
+- dWebJS Libraries (https://github.com/distributedweb) (Any exploit found in these libraries is in scope).
 - dBrowser (https://github.com/dbrowser)
-- Air Drop System (https://github.com/arisenio/air-drop-app)
-- aVote Wallet (https://github.com/arisenio/avote)
-- aBank Core Wallet (https://github.com/arisenio/abank)
+- dSocial Signup System (https://github.com/peepsx/dsocial-signup-dapp)
+- dWallet Wallet (Desktop) (https://github.com/arisenio/dwallet-desktop)
+- dWallet Wallet (Mobile) (https://github.com/arisenio/dwallet-mobile)
 - Any DOS-style vulnerabilities that apply to the above libraries.
 
 **NOTE:** You must not use any public networks for PoC. All attacks must be proven against test networks, as long as you have permission from the test network you're exploiting. 
